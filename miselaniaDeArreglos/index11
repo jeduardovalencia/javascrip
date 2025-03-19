@@ -1,0 +1,10 @@
+let nums = [1,2,3,4,5,6,7,8,9,10];
+
+nums.push(345);
+nums.push(true);
+nums.push("ADSO");
+nums.push(455, 78, false);
+nums.push("ABcd", true, 21);
+
+console.log(nums);
+              
